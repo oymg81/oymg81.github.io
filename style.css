@@ -1,0 +1,24 @@
+.projects-section {
+  margin: 40px auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.project-list li {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.btn-resume {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #0047ab;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.btn-resume:hover {
+  background-color: #003380;
+}
